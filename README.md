@@ -2,11 +2,14 @@
   <img src="./assets/github-readme-banner.png" alt="Hello! I'm Raúl" height="300" />
 </p>
 
-<p>
-I am a software developer with a strong analytical capacity, specialized in problem-solving. I am characterized by self-learning and creativity, always in search of continuous learning and improvement.
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-@AkashRajpurohit-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/AkashRajpurohit)
+[![Website Badge](https://img.shields.io/badge/-akashrajpurohit.com-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://akashrajpurohit.com/)
 
-## 🔧 Stack
+### Glad to see you here!
+
+I am a software developer with a strong analytical capacity, specialized in problem-solving. I am characterized by self-learning and creativity, always in search of continuous learning and improvement.
+
+### 🔧 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -27,16 +30,16 @@ I am a software developer with a strong analytical capacity, specialized in prob
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
+### Developing
 
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
 
+  <img height="170em" src="https://grs-akash.vercel.app/api?username=raulv7z&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=radical&rank_icon=percentile" />
+  <img height="170em" src="https://grs-akash.vercel.app/api/top-langs/?username=raulv7z&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" />
+</details>
 
-## 📈 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=raulv7z&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-</p>
-
-## 📫 Connect with me
+### 📫 Connect with me
 
 <p align="center">
   <a href="mailto:rmm0.office@gmail.com">
