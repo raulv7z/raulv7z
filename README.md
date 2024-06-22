@@ -11,7 +11,8 @@
 
 ### Glad to see you here!
 
-I am a software developer with a strong analytical capacity, specialized in problem-solving. I am characterized by self-learning and creativity, always in search of continuous learning and improvement.
+- I am a software developer with a strong analytical capacity, specialized in problem-solving.
+- I am characterized by self-learning and creativity, always in search of continuous learning and improvement.
 
 ### 🔧 Tech Stack
 
