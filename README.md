@@ -2,7 +2,7 @@
   <img src="./assets/github-readme-banner.png" alt="Hello! I'm Raúl" height="300" />
 </p>
 
-<p align="center">
+<p>
 I am a software developer with a strong analytical capacity, specialized in problem-solving. I am characterized by self-learning and creativity, always in search of continuous learning and improvement.
 </p>
 
