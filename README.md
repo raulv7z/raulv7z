@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-readme-banner.png" alt="Hello! I'm Raúl" height="300" />
+  <img src="./assets/github-readme-banner.png" alt="Hello! I'm Raúl" height="200" />
 </p>
 
 <a href="mailto:rmm0.office@gmail.com">
