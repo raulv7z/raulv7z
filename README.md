@@ -2,8 +2,8 @@
   <img src="./assets/github-readme-banner.png" alt="Hello! I'm Raúl" height="300" />
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-@AkashRajpurohit-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/AkashRajpurohit)
-[![Website Badge](https://img.shields.io/badge/-akashrajpurohit.com-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://akashrajpurohit.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-@rmm0-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/rmm0)
+[![Website Badge](https://img.shields.io/badge/-portfolio-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.google.com/)
 
 ### Glad to see you here!
 
