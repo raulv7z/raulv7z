@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-readme-banner.png" alt="Hello! I'm Raúl" height="200" />
+  <img src="./assets/github-readme-banner.png" alt="Hello! I'm Raúl" height="300" />
 </p>
 
 Bienvenido a mi perfil de GitHub.
