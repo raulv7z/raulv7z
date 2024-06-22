@@ -2,14 +2,15 @@
   <img src="./assets/github-readme-banner.png" alt="Hello! I'm Raúl" height="300" />
 </p>
 
-  <a href="mailto:rmm0.office@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/rmm0">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 
-### Glad to see you here!
+<a href="mailto:rmm0.office@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/rmm0">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+## Glad to see you here!
 
 I am a software developer with a strong analytical capacity, specialized in problem-solving. I am characterized by self-learning and creativity, always in search of continuous learning and improvement.
 
@@ -34,13 +35,12 @@ I am a software developer with a strong analytical capacity, specialized in prob
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
-### Developing
+### Analytics
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
   <img height="170em" src="https://grs-akash.vercel.app/api?username=raulv7z&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=radical&rank_icon=percentile" />
-  <img height="170em" src="https://grs-akash.vercel.app/api/top-langs/?username=raulv7z&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" />
 </details>
 
 ### 📫 Connect with me
