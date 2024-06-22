@@ -2,7 +2,7 @@
 
 Bienvenido a mi perfil de GitHub.
 
-## 🔧 Tecnologías y Herramientas
+## 🔧 Stack
 ### Lenguajes de Programación
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,20 +19,17 @@ Bienvenido a mi perfil de GitHub.
 ### Bases de Datos
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Herramientas y Plataformas
+### Herramientas
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 🌱 Actualmente estoy aprendiendo
-<!-- Añade aquí lo que estás aprendiendo actualmente -->
 
 ## 📈 Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=raulv7z&show_icons=true&theme=radical)
 
 ## 📂 Proyectos Destacados
-- [Proyecto 1](https://github.com/tu-usuario/proyecto-1): Descripción.
+- ![Proyecto 1](https://img.shields.io/badge/-Proyecto%201-181717?style=for-the-badge&logo=github&logoColor=white): Descripción.
 
 ## 📫 Contacto
-- **Email:** tu.email@example.com
-- **LinkedIn:** [Perfil](https://linkedin.com/in/tu-perfil)
+- ![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white): rmm0.office@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 
 ¡Gracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o quieres colaborar en algún proyecto.
