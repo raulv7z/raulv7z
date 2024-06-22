@@ -9,23 +9,24 @@ I am a software developer with a strong analytical capacity, specialized in prob
 ## 🔧 Stack
 
 <p align="center">
-  <code><img height="35" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="html5"></code>
-  <code><img height="35" src="https://www.w3.org/Style/CSS/logos/CC.png" alt="css3"></code>
-  <code><img height="35" src="https://sass-lang.com/favicon.ico" alt="sass"></code>
-  <code><img height="35" src="https://www.php.net/images/logos/new-php-logo.svg" alt="php"></code>
-  <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript"></code>
-  <code><img height="35" src="https://jquery.com/favicon.ico" alt="jquery"></code>
-  <code><img height="35" src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo.svg" alt="bootstrap"></code>
-  <code><img height="35" src="https://tailwindcss.com/favicon-32x32.png" alt="tailwind-css"></code>
-  <code><img height="35" src="https://laravel.com/img/favicon/favicon.ico" alt="laravel"></code>
-  <code><img height="35" src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png" alt="java"></code>
-  <code><img height="35" src="https://www.pngfind.com/pngs/m/99-995692_c-logo-icon-png-transparent-png.png" alt="cplusplus"></code>
-  <code><img height="35" src="https://logoeps.com/wp-content/uploads/2011/03/mysql-logo-vector.png" alt="mysql"></code>
-  <code><img height="35" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git"></code>
-  <code><img height="35" src="https://github.githubassets.com/favicon.ico" alt="github"></code>
-  <code><img height="35" src="https://code.visualstudio.com/favicon.ico" alt="visual-studio-code"></code>
-  <code><img height="35" src="https://www.kernel.org/theme/images/logos/favicon.png" alt="linux"></code>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
+
 
 
 
