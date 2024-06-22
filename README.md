@@ -2,8 +2,12 @@
   <img src="./assets/github-readme-banner.png" alt="Hello! I'm Raúl" height="300" />
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-@rmm0-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/rmm0)
-[![Website Badge](https://img.shields.io/badge/-portfolio-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.google.com/)
+  <a href="mailto:rmm0.office@gmail.com">
+    <img src="https://img.shields.io/badge/rmm0.office@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/rmm0">
+    <img src="https://img.shields.io/badge/Raúl-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
 ### Glad to see you here!
 
@@ -43,9 +47,9 @@ I am a software developer with a strong analytical capacity, specialized in prob
 
 <p align="center">
   <a href="mailto:rmm0.office@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/rmm0.office@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/tu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/rmm0">
+    <img src="https://img.shields.io/badge/Raúl-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
