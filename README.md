@@ -2,6 +2,7 @@
   <img src="./assets/github-readme-banner.png" alt="Hello! I'm Raúl" height="300" />
 </p>
 
+![Demo Video](assets/github-readme-video-banner.mp4)
 
 <a href="mailto:rmm0.office@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
