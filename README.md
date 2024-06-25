@@ -2,13 +2,6 @@
   <img src="./assets/github-readme-banner.png" alt="Hello! I'm Raúl" height="200" />
 </p>
 
-<a href="mailto:rmm0.office@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://linkedin.com/in/rmm0">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
 ## Glad to see you here!
 
 I am a software developer with a strong analytical capacity, specialized in problem-solving. I am characterized by self-learning and creativity, always in search of continuous learning and improvement.
@@ -34,17 +27,17 @@ I am a software developer with a strong analytical capacity, specialized in prob
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
-### Analytics
+### ⚡ Analytics
 
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><b>Github Stats</b></summary>
 
   <img height="170em" src="https://grs-akash.vercel.app/api?username=raulv7z&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=radical&rank_icon=percentile" />
 </details>
 
 ### 📫 Connect with me
 
-<p align="center">
+<p align="justify">
   <a href="mailto:rmm0.office@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
